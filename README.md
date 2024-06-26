@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](https://github.com/PrabalSP99/PrabalSP99/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Prabal</h1>
 <h3 align="center">A passionate Software Enginer from India</h3>
 <img align="right" alt="coding" height="300" widhth="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
