@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabal</h1>
 <h3 align="center">A passionate Software Enginer from India</h3>
-<img align="right" alt="coding" widhth="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fokoliechykwuka%2Fokoliechykwuka&psig=AOvVaw3ZboghPcvzB8Ajx9AIHVRZ&ust=1719490683608000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJC6n42g-YYDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" widhth="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabalsp99&label=Profile%20views&color=0e75b6&style=flat" alt="prabalsp99" /> </p>
 
 - 🌱 I’m currently learning **Django, Selenium**
