@@ -4,9 +4,9 @@
 <img align="right" alt="coding" height="300" widhth="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabalsp99&label=Profile%20views&color=0e75b6&style=flat" alt="prabalsp99" /> </p>
 
-- 🌱 I’m currently learning **Django, Selenium**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **React, Nodejs**
+- 💬 Ask me about **React, Nodejs, AWS**
 
 - 📫 How to reach me **aprabal257730@gmail.com**
 
