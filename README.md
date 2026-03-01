@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **aprabal257730@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1em-pJEteHr9hGyNdpMLEZkx2EAi156Jy/view?usp=sharing]
-
 - ⚡ Fun fact **I am Funny 😂**
 
 <h3 align="left">Connect with me:</h3>
