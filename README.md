@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Nodejs, AWS,DevOps**
 
-- 📫 How to reach me **aprabal257730@gmail.com**
+- 📫 How to reach me **praby.code@gmail.com**
 
 - ⚡ Fun fact **I am Funny 😂**
 
